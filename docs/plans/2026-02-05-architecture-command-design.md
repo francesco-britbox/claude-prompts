@@ -270,6 +270,6 @@ New domains can be added following the template pattern.
 
 ## Files
 
-- `/Commands/create-architecture.md` — Main command
-- `/Commands/create-service-manager.md` — Extension command
+- `/.claude/Commands/create-architecture.md` — Main command
+- `/.claude/Commands/create-service-manager.md` — Extension command
 - `/Architecture/` — Generated output directory
